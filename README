@@ -1,0 +1,20 @@
+Iso Minas
+Alfonso Fernández Abad
+afa11@alu.ua.es
+nick bitheroes: Phantomas
+                      
+**Atención usa la tecla 'h' para mostrar las minas en cualquier momento , esto permite probar el juego 
+
+He llamado al juego Iso Minas , porque se me ocurrió intentar emular una vista isométrica,                                                                     
+La comprobación de las minas solo se hace izquierda derecha y arriba, 
+He descartado las diagonales porque no se puede mover en diagonal.        
+El jugador pasa al siguiente nivel cuando alcanza la última casilla 
+EL numero de minas se incrementa * 2 , al pasar de nivel , numeroMinas = nivel*2;
+Los puntos son en función del tiempo invertido , 60 - tiempo invertido  * 10 
+
+Tiene varios bugs me gustaría haberle echado más tiempo , pero me presento a 3 asignaturas en Julio ,
+así que esto es lo máximo que he podido hacer, pero me he divertido mucho .
+
+Nos vemos en la siguiente entrega, 
+
+gracias por jugar.
